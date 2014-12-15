@@ -15,6 +15,7 @@
     ],
     "line_padding_bottom": 3,
     "line_padding_top": 3,
+    "rulers": [80],
     "show_full_path": true,
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
