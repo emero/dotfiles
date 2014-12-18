@@ -2,6 +2,7 @@
     "atomic_save": true,
     "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
     "draw_white_space": "all",
+    "enable_tab_scrolling": false,
     "fade_fold_buttons": false,
     "file_exclude_patterns":
     [
