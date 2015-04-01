@@ -16,13 +16,11 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"rulers":
-	[
-		80
-	],
+	"rulers": [80],
 	"show_full_path": true,
 	"tabs_medium": true,
 	"theme": "Afterglow-blue.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+    "word_wrap": "true"
 }
