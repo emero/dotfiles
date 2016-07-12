@@ -1,76 +1,76 @@
 {
-	"always_show_minimap_viewport": true,
-	"atomic_save": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
-	"command": "expand_abbreviation_by_tab",
-	"context":
-	[
-		{
-			"key": "selector",
-			"match_all": true,
-			"operand": "source.js",
-			"operator": "equal"
-		},
-		{
-			"key": "selection_empty",
-			"match_all": true
-		},
-		{
-			"key": "has_next_field",
-			"match_all": true,
-			"operand": false,
-			"operator": "equal"
-		},
-		{
-			"key": "auto_complete_visible",
-			"match_all": true,
-			"operand": false,
-			"operator": "equal"
-		},
-		{
-			"key": "is_abbreviation",
-			"match_all": true
-		}
-	],
-	"draw_white_space": "all",
-	"ensure_newline_at_eof_on_save": true,
-	"fade_fold_buttons": false,
-	"file_exclude_patterns":
-	[
-		".DS_Store"
-	],
-	"folder_exclude_patterns":
-	[
-		".git"
-	],
-	"font_face": "Source Code Pro",
-	"font_size": 13,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"keys":
-	[
-		"tab"
-	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"material_theme_compact_sidebar": true,
-	"material_theme_contrast_mode": true,
-	"material_theme_panel_separator": true,
-	"material_theme_small_tab": true,
-	"material_theme_tabs_separator": true,
-	"material_theme_tree_headings": true,
-	"rulers":
-	[
-		80
-	],
-	"show_full_path": true,
-	"tab_size": 2,
-	"tabs_medium": true,
-	"theme": "Material-Theme-Darker.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "true"
+  "always_show_minimap_viewport": true,
+  "atomic_save": true,
+  "color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
+  "command": "expand_abbreviation_by_tab",
+  "context":
+  [
+    {
+      "key": "selector",
+      "match_all": true,
+      "operand": "source.js",
+      "operator": "equal"
+    },
+    {
+      "key": "selection_empty",
+      "match_all": true
+    },
+    {
+      "key": "has_next_field",
+      "match_all": true,
+      "operand": false,
+      "operator": "equal"
+    },
+    {
+      "key": "auto_complete_visible",
+      "match_all": true,
+      "operand": false,
+      "operator": "equal"
+    },
+    {
+      "key": "is_abbreviation",
+      "match_all": true
+    }
+  ],
+  "draw_white_space": "all",
+  "ensure_newline_at_eof_on_save": true,
+  "fade_fold_buttons": false,
+  "file_exclude_patterns":
+  [
+    ".DS_Store"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".git"
+  ],
+  "font_face": "Source Code Pro",
+  "font_size": 13,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "keys":
+  [
+    "tab"
+  ],
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "material_theme_compact_sidebar": true,
+  "material_theme_contrast_mode": true,
+  "material_theme_panel_separator": true,
+  "material_theme_small_tab": true,
+  "material_theme_tabs_separator": true,
+  "material_theme_tree_headings": true,
+  "rulers":
+  [
+    80
+  ],
+  "show_full_path": true,
+  "tab_size": 2,
+  "tabs_medium": true,
+  "theme": "Material-Theme-Darker.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": "true"
 }
