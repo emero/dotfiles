@@ -1,6 +1,7 @@
 {
   "always_show_minimap_viewport": true,
   "atomic_save": true,
+  "binary_file_patterns": ["node_modules/"],
   "color_scheme": "Packages/User/SublimeLinter/Monokai Extended (SL).tmTheme",
   "command": "expand_abbreviation_by_tab",
   "context":
